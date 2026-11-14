@@ -1,0 +1,2 @@
+{"name": "unknown-subcommand-flag-no-config", "argv": ["status", "--bogus"],
+ "doc": "subcommand flag validation must not be masked by config checks"}

@@ -1,0 +1,2 @@
+{"name": "init-twice", "argv": ["init"], "pre": [["init"]], "timeout_s": 180,
+ "doc": "re-running init must fail or merge gracefully and identically in both ports"}

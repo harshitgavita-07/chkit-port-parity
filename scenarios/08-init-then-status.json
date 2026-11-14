@@ -1,0 +1,2 @@
+{"name": "init-then-status", "argv": ["status"], "pre": [["init"]], "timeout_s": 240,
+ "doc": "documented onboarding chain (README next-steps): right after a successful init, status must attempt the server connection and fail honestly; it must not exit 0 without checking anything"}

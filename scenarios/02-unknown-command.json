@@ -1,0 +1,2 @@
+{"name": "unknown-command-no-config", "argv": ["frobnicate"],
+ "doc": "an unknown command is a usage error; config state is irrelevant"}

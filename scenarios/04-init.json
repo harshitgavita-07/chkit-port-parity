@@ -1,0 +1,3 @@
+{"name": "init-empty-dir", "argv": ["init"], "compare_files": true, "timeout_s": 240,
+ "ignore_files": ["package.json", "package-lock.json", "bun.lock"],
+ "doc": "scaffold set must match modulo language (.ts/.py); package manifests and lockfiles are TS-ecosystem artifacts with no Python counterpart"}

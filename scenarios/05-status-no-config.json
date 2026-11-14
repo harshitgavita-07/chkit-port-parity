@@ -1,0 +1,2 @@
+{"name": "status-no-config", "argv": ["status"],
+ "doc": "without config both should say so, not crash or hang"}

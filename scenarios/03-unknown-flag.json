@@ -1,0 +1,2 @@
+{"name": "unknown-flag-no-config", "argv": ["--bogus-flag"],
+ "doc": "an unknown flag is a usage error; config state is irrelevant"}
